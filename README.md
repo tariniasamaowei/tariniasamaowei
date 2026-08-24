@@ -2,6 +2,8 @@
 
 ### ERP & Business Systems Support | Data Analytics | Aspiring ERP Consultant
 
+**Portfolio:** [tariniasamaowei.github.io](https://tariniasamaowei.github.io/)
+
 I help organisations turn operational requirements into reliable systems, accurate data and practical support for users.
 
 I bring four years of experience supporting ERP and business systems, investigating system and data issues, maintaining accurate records, documenting processes and acting as a bridge between business users and technical teams. I am now preparing to move into ERP consultancy, with a learning focus on Sage Intacct, Sage X3 and Microsoft Dynamics.
